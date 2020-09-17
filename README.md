@@ -14,6 +14,8 @@
 - 📫 How to reach me :isaackeinstein@gmail.com
 - 😄 Pronouns:  He/him
 - ⚡ Fun fact: I'm Always serious 
+![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true)
+![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebu&layout=compact)
 
 🏡 [website](https://kalebujordan.com/) **|** 
 🐦 [twitter](https://twitter.com/j_kalebu) **|** 
