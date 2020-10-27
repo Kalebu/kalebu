@@ -16,9 +16,8 @@
 - ⚡ Fun fact: I'm Always serious 
 
 
+![Visitors](https://komarev.com/ghpvc/?kalebu) **|**
 ![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) **|**
-![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalebu&layout=compact)
-
 
 🏡 [website](https://kalebujordan.com/) **|** 
 🐦 [twitter](https://twitter.com/j_kalebu) **|** 
