@@ -5,6 +5,8 @@
 
 -->
 
+![](https://komarev.com/ghpvc/?username=kalebu)
+
 🇹🇿 I'm [Kalebu Jordan](https://kalebujordan.com/)
 
 - 🔭 I’m currently working on [My Blog](https://kalebujordan.com/)
@@ -16,7 +18,6 @@
 - ⚡ Fun fact: I'm Always serious 
 
 
-![](https://komarev.com/ghpvc/?username=kalebu) **|**
 ![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) **|**
 
 🏡 [website](https://kalebujordan.com/) **|** 
