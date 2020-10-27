@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Kalebu/kalebu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +5,8 @@
 -->
 
 ![](https://komarev.com/ghpvc/?username=kalebu)
+
+### Hi there 👋
 
 🇹🇿 I'm [Kalebu Jordan](https://kalebujordan.com/)
 
