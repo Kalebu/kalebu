@@ -5,6 +5,9 @@
 
 <p><samp><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOps</samp></p>
 
+<a href="https://www.buymeacoffee.com/kalebuj" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 <h3><samp>My Tech stack</samp></h3>
 <ul>
     <li>
