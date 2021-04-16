@@ -5,7 +5,7 @@
 
 <p><samp><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOps</samp></p>
 
-[![Become a patron](https://img.shields.io/static/v1.svg?label=Become%20a%20patron&message=🙏&color=e85b46&logo=patreon&logoColor=white&labelColor=e85b46)](https://www.patreon.com/kalebujordan)
+[![Become a patron](become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
 
 <h3><samp>My Tech stack</samp></h3>
 <ul>
