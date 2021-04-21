@@ -98,6 +98,8 @@
         <ul>
             <li><samp><a href = "https://github.com/Kalebu/pyswahili">Pyswahili</a> Swahili Version of Python programming language<samp></li>
             <li><samp><a href="https://github.com/Kalebu/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</samp></li>
+            <li><samp><a href="https://github.com/Kalebu/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</samp></li>
+            <li><samp><a href="https://github.com/Kalebu/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </samp></li>
             <li><samp><a href="https://github.com/Kalebu/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets </samp></li>
             <li><samp><a href="https://github.com/nextsms/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS API</samp></li>
         </ul>
@@ -121,7 +123,7 @@
         <ul>
             <li>
                 <samp>
-                <a href="https://kalebujordan.com/">Personal Blog</a> |
+                <a href="https://kalebujordan.dev/">Personal Blog</a> |
                 <a href="https://dev.to/kalebu">Dev.to</a> |
                 <a href="https://hashnode.com/@Kalebujordan">Hashnode</a> |
                 <a href="https://hackernoon.com/u/kalebujordan">Hackernoon</a> |
