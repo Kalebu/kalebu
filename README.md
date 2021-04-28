@@ -102,6 +102,7 @@
             <li><samp><a href="https://github.com/Kalebu/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </samp></li>
             <li><samp><a href="https://github.com/Kalebu/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets </samp></li>
             <li><samp><a href="https://github.com/nextsms/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS API</samp></li>
+            <li><samp><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</samp></li>
         </ul>
     </li>
     <li>
