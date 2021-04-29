@@ -96,12 +96,12 @@
         <p><samp><b> Open Source </b></samp></p>
         <p><samp> Here couple of open source projects I maintain</samp></p>
         <ul>
-            <li><samp><a href = "https://github.com/Kalebu/pyswahili">Pyswahili</a> Swahili Version of Python programming language<samp></li>
-            <li><samp><a href="https://github.com/Kalebu/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</samp></li>
-            <li><samp><a href="https://github.com/Kalebu/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</samp></li>
-            <li><samp><a href="https://github.com/Kalebu/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </samp></li>
-            <li><samp><a href="https://github.com/Kalebu/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets </samp></li>
-            <li><samp><a href="https://github.com/nextsms/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS API</samp></li>
+            <li><samp><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language<samp></li>
+            <li><samp><a href="https://kalebu.github.io/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</samp></li>
+            <li><samp><a href="https://kalebu.github.io/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</samp></li>
+            <li><samp><a href="https://kalebu.github.io/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </samp></li>
+            <li><samp><a href="https://kalebu.github.io/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets </samp></li>
+            <li><samp><a href="https://nextsms.github.io/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS API</samp></li>
             <li><samp><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</samp></li>
         </ul>
     </li>
