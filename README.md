@@ -103,6 +103,7 @@
             <li><samp><a href="https://kalebu.github.io/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets </samp></li>
             <li><samp><a href="https://nextsms.github.io/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS API</samp></li>
             <li><samp><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</samp></li>
+            <li><samp><a href="https://kalebu.github.io/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</samp></li>
         </ul>
     </li>
     <li>
