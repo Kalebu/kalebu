@@ -129,7 +129,8 @@
                 <a href="https://dev.to/kalebu">Dev.to</a> |
                 <a href="https://hashnode.com/@Kalebujordan">Hashnode</a> |
                 <a href="https://hackernoon.com/u/kalebujordan">Hackernoon</a> |
-                <a href="https://kalebujordan.medium.com/">Medium</a>
+                <a href="https://kalebujordan.medium.com/">Medium</a> |
+                <a href="https://t.me/kalebujordan">Telegram</a>
                 </samp>
             </li>
         </ul>
