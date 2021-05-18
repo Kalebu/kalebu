@@ -3,7 +3,7 @@
 
 <p><samp>Hi there I'm <b>Kalebu Jordan</b></samp></p>
 
-<p><samp><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOps</samp></p>
+<p><samp><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOps</samp></p>
 
 [![Become a patron](become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
 
