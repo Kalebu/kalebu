@@ -1,163 +1,182 @@
 
 ![](https://komarev.com/ghpvc/?username=kalebu)
 
-<p><samp>Hi there I'm <b>Kalebu Jordan</b></samp></p>
 
-<p><samp><b>Mechatronics Engineer</b> and a <b>Pro Python Developer</b> with expertise expertise in building (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices and DevOps</samp></p>
+<samp>
+<p>Hi there I'm <b>Kalebu Jordan</b></p>
+
+<p>
+A Tech Nerd, Ever since I came across this world of programming I never looked back I engaged myself in building projects as a way to solidify my understanding, I built tons of them and some got a chance to be recognized including ASK-IRIS (AI tool that links people with no internet access to Internet through SMS), KILIMO TEXT (A device and system that allows farmers to easily monitors and control conditions of the farm using SMS) and later VIRTUAL ROBOTICS LAB (A virtual lab thats allow students to interactive learn robotics knowledge).
+
+Perhaps of having a background in Mechatronics Engineering, I managed in someway to transform my hobby into career through thousands of hours spend on watching tutorials, reading books and blogs and building projects, nowadays I mainly work as a Software Engineer
+
+I have rich experience in developing (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices, and DevOps using Python at high quality following best practices. I worked with High-quality clients including Imperial Marketing Agency and Harlos Company and developed a solutions that is being used by thousands of people
+
+I'm also a huge advocate of open-source software maintaining over 8 open-source python packages and also have spoken to a couple of conferences, webinars, and podcasts about open-source and Python.
+
+For long time I have been enjoying writing, one of the things I find joyful and dating about a year go I began a journey Content creator mainly writing articles and tutorials aimed to help people strengthen their Python skills by building real-world software, I primarily publish on my personal blog and republish on multiple platforms such as hacker noon, hash node and etc
+
+I'm primarily work for Contracts works and But also open to full time roles , Let's talk
+</p>
 
 [![Become a patron](become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
 
-<h3><samp>My Tech stack</samp></h3>
+<h3>My Tech stack</h3>
 <ul>
     <li>
-        <p><samp><b>languages</b></samp></p>
+        <p><b>languages</b></p>
         <ul>
-            <li><samp>Python | Javascript | Rust | C/C++ | Arduino </samp></li>
-            <li><samp>Html | Css | Yaml | Json</samp></li>
+            <li>Python | Javascript | Rust | C/C++ | Arduino </li>
+            <li>Html | Css | Yaml | Json</li>
         </ul>
     </li>
     <li>
-        <p><samp><b>Frameworks & Tools</b></samp></p>
+        <p><b>Frameworks & Tools</b></p>
         <ul>
             <li>
-                <p><samp>Web Frameworks</samp></p>
+                <p>Web Frameworks</p>
                 <ul>
-                    <li><samp>Flask | FastAPI | Sanic | Django | Tornado | Express</samp></li>
+                    <li>Flask | FastAPI | Sanic | Django | Tornado | Express</li>
                 </ul>
             <li>
-                <p><samp>Data Science (ML/AI)</samp></p>
+                <p>Data Science (ML/AI)</p>
                 <ul>
-                    <li><samp>Sklearn | PyTorch | Tensorflow</samp></li>
+                    <li>Sklearn | PyTorch | Tensorflow</li>
                 </ul>
             </li>
             <li>
-                <p><samp> Databases & Storange</samp></p>
+                <p> Databases & Storange</p>
                 <ul>
-                    <li><samp> Sqlite | Mysql | MariaDB | Amazon Auora</samp></li>
-                    <li><samp>MongoDB | Firestore | Amazon DocumentDB </samp></li>
-                    <li><samp> DynamoDB | S3 | Kinesis |  Redis</samp></li>
+                    <li> Sqlite | Mysql | MariaDB | Amazon Auora</li>
+                    <li>MongoDB | Firestore | Amazon DocumentDB </li>
+                    <li> DynamoDB | S3 | Kinesis |  Redis</li>
                 </ul>
                 </li>
             <li>
-                <p><samp>Serverless</samp></p>
+                <p>Serverless</p>
                 <ul>
-                    <li><samp> Aws Lambda | Aws Sam | Aws API Gateway</samp></li>
-                    <li><samp> Google Cloud run</samp></li>
+                    <li> Aws Lambda | Aws Sam | Aws API Gateway</li>
+                    <li> Google Cloud run</li>
                 </ul>
                 </li>
             <li>
-                <p><samp>IoT</samp></p>
+                <p>IoT</p>
                 <ul>
-                    <li><samp>Aws IoT Core | Aws Greengrass | Aws FreeRTOS</samp></li>
-                    <li><samp>socketserver | Paho </samp></li>
-                    <li><samp> Raspberry Pi | NodeMCU | Arduino</samp></li>
+                    <li>Aws IoT Core | Aws Greengrass | Aws FreeRTOS</li>
+                    <li>socketserver | Paho </li>
+                    <li> Raspberry Pi | NodeMCU | Arduino</li>
                 </ul>
             </li>
         <li>
-            <p><samp> Cloud & Hosting</samp</p>
+            <p> Cloud & Hosting</samp</p>
             <ul>
-                <li><samp>AWS | Google Cloud | Digital Ocean | Heroku | Vercel </samp></li>
+                <li>AWS | Google Cloud | Digital Ocean | Heroku | Vercel </li>
             </ul>
         </li>
         <li>
-            <p><samp> API Testing</samp</p>
+            <p> API Testing</samp</p>
             <ul>
-                <li><samp> Insomia | Postman </samp></li>
+                <li> Insomia | Postman </li>
             </ul>
         </li>
         <li>
-            <p><samp> Distros </samp</p>
+            <p> Distros </samp</p>
             <ul>
-                <li><samp> Ubuntu | Deepin | Kali </samp></li>
+                <li> Ubuntu | Deepin | Kali </li>
             </ul>
         </li>
         <li>
-            <p><samp> Shells </samp</p>
+            <p> Shells </samp</p>
             <ul>
-                <li><samp> Zsh | Bash  </samp></li>
+                <li> Zsh | Bash  </li>
             </ul>
         </li>
         <li>
-            <p><samp> Version Control </samp</p>
+            <p> Version Control </samp</p>
             <ul>
-                <li><samp> Git | Github  </samp></li>
+                <li> Git | Github  </li>
             </ul>
         </li>
         <li>
-            <p><samp> Code Editor(IDE) + Environment </samp</p>
+            <p> Code Editor(IDE) + Environment </samp</p>
             <ul>
-                <li><samp> VSCode | Sublime | Vim | Nano  </samp></li>
-                <li><samp> Music + Coffee + Snacks
+                <li> VSCode | Sublime | Vim | Nano  </li>
+                <li> Music + Coffee + Snacks
             </ul>
         </li>
         </ul>
     </li>
     <li>
-        <p><samp><b> Open Source </b></samp></p>
-        <p><samp> Here couple of open source projects I maintain</samp></p>
+        <p><b> Open Source </b></p>
+        <p> Here couple of open source projects I maintain</p>
         <ul>
-            <li><samp><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language<samp></li>
-            <li><samp><a href="https://kalebu.github.io/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</samp></li>
-            <li><samp><a href="https://kalebu.github.io/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</samp></li>
-            <li><samp><a href="https://kalebu.github.io/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </samp></li>
-            <li><samp><a href="https://kalebu.github.io/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets </samp></li>
-            <li><samp><a href="https://nextsms.github.io/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS API</samp></li>
-            <li><samp><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</samp></li>
-            <li><samp><a href="https://kalebu.github.io/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</samp></li>
+            <li><a href = "https://kalebu.github.io/pyswahili">Pyswahili</a> Swahili Version of Python programming language</li>
+            <li><a href="https://kalebu.github.io/pypesa">Pypesa</a> Python package to easy integration with Mpesa API</li>
+            <li><a href="https://kalebu.github.io/pysimilar">Pysimilar</a> A light python library for computing similarities on texts based on cosine similarity</li>
+            <li><a href="https://kalebu.github.io/Nida">Nida</a> un-official Python library for loading user informations based on National ID number(Tanzania) </li>
+            <li><a href="https://kalebu.github.io/mtaa">Mtaa</a> Python package with all Tanzania locations from regions to streets </li>
+            <li><a href="https://nextsms.github.io/nextsms">NextSMS</a> Python package to easy integration with nextsms SMS API</li>
+            <li><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
+            <li><a href="https://kalebu.github.io/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</li>
         </ul>
     </li>
     <li>
-        <p><samp><b> Works </b></samp></p>
-        <p><samp>These are some of companies with my fingerprints</samp></p>
+        <p><b> Works </b></p>
+        <p>These are some of companies with my fingerprints</p>
         <ul>
             <li>
-                <samp>
                 <a href="https://www.kopagas.com/">Kopagas</a> |
                 <a href="https://www.imc.co.tz/">Imperial Marketing Agency(IMC)</a> |
                 <a href="https://www.linkedin.com/company/harlos-comp-limited/">Harlos Containers</a>
-                </samp> |
+                 |
             </li>
         </ul>
     </li>
     <li>
-        <p><samp><b>Blog And Articles</b></samp></p>
-        <p><samp>Sometimes I write technical articles & tutorials on these platform </samp></p>
+        <p><b>Blog And Articles</b></p>
+        <p>Sometimes I write technical articles & tutorials on these platform </p>
         <ul>
             <li>
-                <samp>
                 <a href="https://kalebujordan.dev/">Personal Blog</a> |
                 <a href="https://dev.to/kalebu">Dev.to</a> |
                 <a href="https://hashnode.com/@Kalebujordan">Hashnode</a> |
                 <a href="https://hackernoon.com/u/kalebujordan">Hackernoon</a> |
                 <a href="https://kalebujordan.medium.com/">Medium</a> |
-                <a href="https://t.me/kalebujordan">Telegram</a>
-                </samp>
+                <a href="https://t.me/kalebujordan">Telegram</a>    
             </li>
         </ul>
     </li>
     <li>
-        <p><samp><b> Talks  </b></samp></p>
-        <p><samp> Wanna invite me to talk/conference, Please email at <b>isaackeinstein(at)gmail.com</b></samp></p>
+        <p><b> Talks  </b></p>
+        <p> Wanna invite me to talk/conference, Please email at <b>isaackeinstein(at)gmail.com</b></p>
         <ul>
-            <samp>
             <li><a href = "https://medium.com/dive-into-python-3/interview-with-kalebu-jordan-diving-into-python-3-cb9498bdf798"> Dive into Python (2020) </a></li>
             <li><a href="https://www.youtube.com/watch?v=7BqeN--xHzY"> Pycon Tanzania 2020 (Python for Embedded & IoT)</a></li>
-            </samp>
         </ul>
+    </li>
     <li>
-        <p><samp><b> Hobbies </b></samp></p>
+        <b> Courses </b>
         <ul>
-            <samp> 
+            <li><a href = "https://barmaga.io/en/courses/apis-with-flask-sw/lectures/1-build-api-with-flask-and-python-1">Building API with Python and Flask </a></li>
+        </ul>
+    </li>
+    <li>
+        <b>Podcasts</b>
+        <ul>
+            <li><a href = "https://www.audible.com/pd/Mchango-kwenye-Open-Source-Community-na-Kalebu-Podcast/B08WJR9T64">Mchango kwenye Open Source Community na Kalebu</a></li>
+        </ul>
+    </li>
+    <li>
+        <p><b> Hobbies </b></p>
+        <ul>
             <li>Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)</li>
             <li>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...)</li>
             <li>Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...)</li>
             <li>Space (Huge fan of space, sometimes I take it seriously as code)</li>
-            <li>.....</li>
-            </samp>
+            <li>.....</li>    
         </ul>
     </li>
-    <li>
-        <samp>
+    <li>  
         <p><b>How to reach me !! <b><p>
         <ul>
             <li>
@@ -168,8 +187,8 @@
                 <a href = "https://web.facebook.com/kalebu.jordan">facebook</a> 
             </li>
         </ul>
-        </samp>
     </li>
 </ul>
+</samp>
 
 ![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) **|**
