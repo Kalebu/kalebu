@@ -3,20 +3,33 @@
 
 
 <samp>
-<p>Hi there I'm <b>Kalebu Jordan</b></p>
+<p>Hi there !</p>
 
+### Who am I ?
 <p>
-A Tech Nerd, Ever since I came across this world of programming I never looked back I engaged myself in building projects as a way to solidify my understanding, I built tons of them and some got a chance to be recognized including ASK-IRIS (AI tool that links people with no internet access to Internet through SMS), KILIMO TEXT (A device and system that allows farmers to easily monitors and control conditions of the farm using SMS) and later VIRTUAL ROBOTICS LAB (A virtual lab thats allow students to interactive learn robotics knowledge).
+I'm <b><a href="https://kalebujordan.dev/author/kalebu/">Kalebu Jordan</a></b>, A Tech Nerd, Ever since I came across this world of programming I never looked back I engaged myself in building projects as a way to solidify my understanding, I built tons of them and some got a chance to be recognized including <b>ASK-IRIS</b> (AI tool that links people with no internet access to Internet through SMS), <b>KILIMO TEXT</b> (A device and system that allows farmers to easily monitors and control conditions of the farm using SMS) and later <b>VIRTUAL ROBOTICS LAB</b> (A virtual lab thats allow students to interactive learn robotics knowledge).
 
-Perhaps of having a background in Mechatronics Engineering, I managed in someway to transform my hobby into career through thousands of hours spend on watching tutorials, reading books and blogs and building projects, nowadays I mainly work as a Software Engineer
+### Graduate from tutorial university
+
+Perhaps of having a background in Mechatronics Engineering, I managed in someway to transform my hobby into career through thousands of hours spend on watching tutorials, reading books and blogs and building projects, nowdays I mainly work as a Software Engineer
+
+### what I'm good at
 
 I have rich experience in developing (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices, and DevOps using Python at high quality following best practices. I worked with High-quality clients including Imperial Marketing Agency and Harlos Company and developed a solutions that is being used by thousands of people
 
+### Opensource advocate
+
 I'm also a huge advocate of open-source software maintaining over 8 open-source python packages and also have spoken to a couple of conferences, webinars, and podcasts about open-source and Python.
+
+### Content creator
 
 For long time I have been enjoying writing, one of the things I find joyful and dating about a year go I began a journey Content creator mainly writing articles and tutorials aimed to help people strengthen their Python skills by building real-world software, I primarily publish on my personal blog and republish on multiple platforms such as hacker noon, hash node and etc
 
+
+### Hire me 
+
 I'm primarily work for Contracts works and But also open to full time roles , Let's talk
+
 </p>
 
 [![Become a patron](become_a_patron_button.png)](https://www.patreon.com/kalebujordan)
@@ -118,7 +131,7 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
             <li><a href="https://nextsms.github.io/python-client/">NextSMS</a> Python package to easy integration with nextsms SMS API</li>
             <li><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
             <li><a href="https://github.com/Kalebu/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</li>
-            <li><a href ="https://github.com/Kalebu/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programatically send messsages, images, video, and files.
+            <li><a href ="https://github.com/Kalebu/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.
         </ul>
     </li>
     <li>
