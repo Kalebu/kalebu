@@ -5,6 +5,9 @@
 <samp>
 <p>Hi there !</p>
 
+
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)](https://www.upwork.com/o/profiles/users/~013e000d7680a4c985/)
+
 ### Who am I ?
 <p>
 I'm <b><a href="https://kalebujordan.dev/author/kalebu/">Kalebu Jordan</a></b>, A Tech Nerd, Ever since I came across this world of programming I never looked back I engaged myself in building projects as a way to solidify my understanding, I built tons of them and some got a chance to be recognized including <b>ASK-IRIS</b> (AI tool that links people with no internet access to Internet through SMS), <b>KILIMO TEXT</b> (A device and system that allows farmers to easily monitors and control conditions of the farm using SMS) and later <b>VIRTUAL ROBOTICS LAB</b> (A virtual lab thats allow students to interactive learn robotics knowledge).
@@ -23,12 +26,14 @@ I'm also a huge advocate of open-source software maintaining over 8 open-source 
 
 ### Content creator
 
-For long time I have been enjoying writing, one of the things I find joyful and dating about a year go I began a journey Content creator mainly writing articles and tutorials aimed to help people strengthen their Python skills by building real-world software, I primarily publish on my personal blog and republish on multiple platforms such as hacker noon, hash node and etc
+For long time I have been enjoying writing, one of the things I find joyful and dating about a year go I began a journey Content creator mainly writing articles and tutorials aimed to help people strengthen their Python skills by building real-world software, I primarily publish on my [personal blog](http://kalebujordan.dev/) and republish on multiple platforms such as hacker noon, hash node and etc
 
 
 ### Hire me 
 
 I'm primarily work for Contracts works and But also open to full time roles , Let's talk
+
+
 
 </p>
 
@@ -205,5 +210,8 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
     </li>
 </ul>
 </samp>
+
+
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=kalebu&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) **|**
