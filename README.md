@@ -185,6 +185,7 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
         <b>Podcasts</b>
         <ul>
             <li><a href = "https://www.audible.com/pd/Mchango-kwenye-Open-Source-Community-na-Kalebu-Podcast/B08WJR9T64">Mchango kwenye Open Source Community na Kalebu</a></li>
+            <li><a href = "https://podcasts.apple.com/tz/podcast/freelancer-kwa-miaka-5-nitakusimulia-changamoto-na-fursa/id1450412561?i=1000531688182">Freelancer kwa miaka 5 nitakusimulia changamoto na fursa</a></li>
         </ul>
     </li>
     <li>
