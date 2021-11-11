@@ -171,7 +171,7 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
         <ul>
             <li><a href = "https://medium.com/dive-into-python-3/interview-with-kalebu-jordan-diving-into-python-3-cb9498bdf798"> Dive into Python (2020) </a></li>
             <li><a href="https://www.youtube.com/watch?v=7BqeN--xHzY"> Pycon Tanzania 2020 (Python for Embedded & IoT)</a></li>
-            <li><a href="https://www.youtube.com/watch?v=8txyVIzBmxU"> Opensource in Tanzania and Hacking Arduino + ESP32 with MRuby </a></li>
+            <li><a href="https://www.youtube.com/watch?v=Djtzp3RCKWA"> Opensource in Tanzania and Hacking Arduino + ESP32 with MRuby </a></li>
             <li><a href = "https://calendly.com/kalebujordan">Book a meeting with me</a></li>
         </ul>
     </li>
