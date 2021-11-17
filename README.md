@@ -136,7 +136,8 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
             <li><a href="https://nextsms.github.io/python-client/">NextSMS</a> Python package to easy integration with nextsms SMS API</li>
             <li><a href="https://github.com/beem-africa/python-client">BeemAfrica </a>A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)</li>
             <li><a href="https://github.com/Kalebu/tigopesa">Tigopesa </a>Python package to ease the Tigo Pesa API integration</li>
-            <li><a href ="https://github.com/Kalebu/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.
+            <li><a href ="https://github.com/Kalebu/alright">Alright</a> Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.</li>
+            <li><a hred = "https://github.com/kalebu/python-dpo">DirectPayOnline</a> A python package to easy the integration with Direct Online Pay (Mpesa, TigoPesa, AirtelMoney, Card Payments)</li>
         </ul>
     </li>
     <li>
