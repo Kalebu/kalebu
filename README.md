@@ -194,7 +194,12 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
         <ul>
             <li>Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)</li>
             <li>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...)</li>
-            <li>Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...)</li>
+            <li> 
+                <p> Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...) </p>
+            <ul>
+                <li><a href = "https://www.tripadvisor.com/Profile/kalebu_gwalugano?fid=820d86ba-781d-4a39-8c9e-b58bea82ec2a"> Trip Advisor </a></li>
+            </ul>
+            </li>
             <li>Space (Huge fan of space, sometimes I take it seriously as code)</li>
             <li>.....</li>    
         </ul>
