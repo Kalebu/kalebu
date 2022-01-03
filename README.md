@@ -193,8 +193,7 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
         <p><b> Hobbies </b></p>
         <ul>
             <li>Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)</li>
-            <li>
-                <p> Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) </p>
+            <li>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) 
                </li>
             <li> 
                 <p> Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...) </p>
@@ -221,8 +220,11 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
 </ul>
 </samp>
 
-
+                         
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&redirect=true)
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=kalebu&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) **|**
-                [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?)
+![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) 
+
+
+    
