@@ -1,3 +1,5 @@
+github
+github
 
 ![](https://komarev.com/ghpvc/?username=kalebu)
 
@@ -193,13 +195,17 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
         <p><b> Hobbies </b></p>
         <ul>
             <li>Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)</li>
-            <li>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) 
+            <li>
+            <p>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) </p?
+            <p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
                </li>
             <li> 
                 <p> Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...) </p>
-            <ul>
-                <li><a href = "https://www.tripadvisor.com/Profile/kalebu_gwalugano?fid=820d86ba-781d-4a39-8c9e-b58bea82ec2a"> Trip Advisor </a></li>
-            </ul>
+<a href = "https://www.tripadvisor.com/Profile/kalebu_gwalugano?fid=820d86ba-781d-4a39-8c9e-b58bea82ec2a">    <img src = "https://logos-world.net/imageup/Tripadvisor/Tripadvisor-Logo-PNG5.png" height="100" width="150"></a
             </li>
             <li>Space (Huge fan of space, sometimes I take it seriously as code)</li>
             <li>.....</li>    
@@ -221,10 +227,139 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
 </samp>
 
                          
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&redirect=true)
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=kalebu&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) 
 
 
-    
+
+
+
+Hi there !
+
+Upwork
+
+Who am I ?
+I'm Kalebu Jordan, A Tech Nerd, Ever since I came across this world of programming I never looked back I engaged myself in building projects as a way to solidify my understanding, I built tons of them and some got a chance to be recognized including ASK-IRIS (AI tool that links people with no internet access to Internet through SMS), KILIMO TEXT (A device and system that allows farmers to easily monitors and control conditions of the farm using SMS) and later VIRTUAL ROBOTICS LAB (A virtual lab thats allow students to interactive learn robotics knowledge).
+
+Graduate from tutorial university
+Perhaps of having a background in Mechatronics Engineering, I managed in someway to transform my hobby into career through thousands of hours spend on watching tutorials, reading books and blogs and building projects, nowdays I mainly work as a Software Engineer
+
+what I’m good at
+I have rich experience in developing (Web|Mobile) Backends, DataScience solutions, IoT Architectures, Microservices, and DevOps using Python at high quality following best practices. I worked with High-quality clients including Imperial Marketing Agency and Harlos Company and developed a solutions that is being used by thousands of people
+
+Opensource advocate
+I’m also a huge advocate of open-source software maintaining over 8 open-source python packages and also have spoken to a couple of conferences, webinars, and podcasts about open-source and Python.
+
+Content creator
+For long time I have been enjoying writing, one of the things I find joyful and dating about a year go I began a journey Content creator mainly writing articles and tutorials aimed to help people strengthen their Python skills by building real-world software, I primarily publish on my personal blog and republish on multiple platforms such as hacker noon, hash node and etc
+
+Hire me
+I’m primarily work for Contracts works and But also open to full time roles , Let’s talk
+
+Become a patron
+
+My Tech stack
+languages
+
+Python | Javascript | Rust | C/C++ | Arduino
+Html | Css | Yaml | Json
+Frameworks & Tools
+
+Web Frameworks
+
+Flask | FastAPI | Sanic | Django | Tornado | Express
+Data Science (ML/AI)
+
+Sklearn | PyTorch | Tensorflow
+Databases & Storange
+
+Sqlite | Mysql | MariaDB | Amazon Auora
+MongoDB | Firestore | Amazon DocumentDB
+DynamoDB | S3 | Kinesis | Redis
+Serverless
+
+Aws Lambda | Aws Sam | Aws API Gateway
+Google Cloud run
+IoT
+
+Aws IoT Core | Aws Greengrass | Aws FreeRTOS
+socketserver | Paho
+Raspberry Pi | NodeMCU | Arduino
+Cloud & Hosting
+
+AWS | Google Cloud | Digital Ocean | Heroku | Vercel
+API Testing
+
+Insomia | Postman
+Distros
+
+Ubuntu | Deepin | Kali
+Shells
+
+Zsh | Bash
+Version Control
+
+Git | Github
+Code Editor(IDE) + Environment
+
+VSCode | Sublime | Vim | Nano
+Music + Coffee + Snacks
+Open Source
+
+Here couple of open source projects I maintain
+
+Pyswahili Swahili Version of Python programming language
+Pypesa Python package to easy integration with Mpesa API
+Pysimilar A light python library for computing similarities on texts based on cosine similarity
+Nida un-official Python library for loading user informations based on National ID number(Tanzania)
+Mtaa Python package with all Tanzania locations from regions to streets
+NextSMS Python package to easy integration with nextsms SMS API
+BeemAfrica A Python library to ease the integration with the Beem Africa (SMS, AIRTIME, OTP, 2WAY-SMS, BPAY, USSD)
+Tigopesa Python package to ease the Tigo Pesa API integration
+Alright Python wrapper that helps you automate whatsapp web using python, giving you capability to programmatically send messsages, images, video, and files.
+DirectPayOnline A python package to easy the integration with Direct Online Pay (Mpesa, TigoPesa, AirtelMoney, Card Payments)
+Works
+
+These are some of companies with my fingerprints
+
+Kopagas | Imperial Marketing Agency(IMC) | Harlos Containers |
+Blog And Articles
+
+Sometimes I write technical articles & tutorials on these platform
+
+Personal Blog | Dev.to | Hashnode | Hackernoon | Medium | Telegram
+Talks
+
+Wanna invite me to talk/conference, Please email at isaackeinstein(at)gmail.com
+
+Dive into Python (2020)
+Pycon Tanzania 2020 (Python for Embedded & IoT)
+Opensource in Tanzania and Hacking Arduino + ESP32 with MRuby
+Book a meeting with me
+Courses
+Building API with Python and Flask
+Podcasts
+Mchango kwenye Open Source Community na Kalebu
+Freelancer kwa miaka 5 nitakusimulia changamoto na fursa
+Hobbies
+
+Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)
+Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...)
+
+
+Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...)
+
+
+Space (Huge fan of space, sometimes I take it seriously as code)
+.....
+How to reach me !!
+
+isaackeinstein(at)gmail.com | twittter | instagram | linkedin | facebook
+Naereen's github trophy
+
+Kalebu github stats
+
+Markdown 11173 bytes 1010 words 233 lines Ln 227, Col 25HTML 3984 characters 762 words 95 paragraphs
+MENU
+Main workspace not synced.
