@@ -196,7 +196,9 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
             <li>
                 <p> Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) </p> 
                 <ul>
-                    <li>[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kalebjordan.kj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kalebjordan.kj&cover_image=true&theme=default&bar_color_cover=true)]]</li>
+                    <li>
+                        
+                    </li>
                 </ul>
             </li>
             <li> 
@@ -228,3 +230,5 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
 [![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=kalebu&row=1&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Kalebu github stats](https://github-readme-stats.vercel.app/api?username=kalebu&count_private=true&show_icons=true) **|**
+    
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kalebjordan.kj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kalebjordan.kj&cover_image=true&theme=default&bar_color_cover=true)]]
