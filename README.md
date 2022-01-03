@@ -197,7 +197,9 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
                 <p> Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) </p> 
                 <ul>
                     <li>
+                        
                         [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&cover_image=true&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=kalebjordan.kj&redirect=true)
+                        
                     </li>
                 </ul>
             </li>
