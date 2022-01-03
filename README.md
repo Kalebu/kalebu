@@ -193,7 +193,12 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
         <p><b> Hobbies </b></p>
         <ul>
             <li>Movies (Ex-Machina | WestWorlds | Devs | Mr Robot | Salvation | See)</li>
-            <li>Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...)</li>
+            <li>
+                <p> Music (Gospel(Hillsong ..), Hiphop(NF, Kendric, Jcole..)...) </p> 
+                <ul>
+                    <li>[[https://spotify-github-profile.vercel.app/api/view.svg?uid=kalebjordan.kj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=kalebjordan.kj&cover_image=true&theme=default&bar_color_cover=true)]]</li>
+                </ul>
+            </li>
             <li> 
                 <p> Adventures (Hiking(Table Mountain(SA), Uluguru Mountain(TZ)..)...) </p>
             <ul>
