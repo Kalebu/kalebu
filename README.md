@@ -150,6 +150,8 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
                 <a href="https://www.linkedin.com/company/harlos-comp-limited/">Harlos Containers</a> |
                 <a href="https://amazethu.com/"> Amazethu </a> |
                 <a href="http://alienat.work/"> AlienAtWork </a> |
+                <a href="https://logrocket.com/"> Logrocket </a> |
+                <a href="https://draft.dev/"> Draft.dev </a> 
             </li>
         </ul>
     </li>
