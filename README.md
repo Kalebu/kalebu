@@ -147,8 +147,9 @@ I'm primarily work for Contracts works and But also open to full time roles , Le
             <li>
                 <a href="https://www.kopagas.com/">Kopagas</a> |
                 <a href="https://www.imc.co.tz/">Imperial Marketing Agency(IMC)</a> |
-                <a href="https://www.linkedin.com/company/harlos-comp-limited/">Harlos Containers</a>
-                 |
+                <a href="https://www.linkedin.com/company/harlos-comp-limited/">Harlos Containers</a> |
+                <a href="https://amazethu.com/"> Amazethu </a> |
+                <a href="http://alienat.work/"> AlienAtWork </a> |
             </li>
         </ul>
     </li>
